@@ -28,7 +28,7 @@ cd ../frontend
 npm install
 npm start
 
-# Create a .env file and add the following detail
+# Create a .env file and add the following detail in backend folder
 MONGO_URI=mongodb://your_mongo_uri
 AWS_REGION=your_aws_region
 AWS_ACCESS_KEY_ID=your_aws_access_key_id
